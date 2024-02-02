@@ -174,7 +174,7 @@
     "react-native-push-notification": "git://github.com/keybase/react-native-push-notification#nojima/keybase-fixes-off-master",
     "react-native-reanimated": "1.1.0",
     "react-native-screens": "git://github.com/keybase/react-native-screens#keybase-changes-off-alpha-23",
-    "react-native-unimodules": "git://github.com/keybase/react-native-unimodules/#v0.4.0",
+    "react-native-unimodules": "0.14.10",
     "react-native-video": "4.4.4",
     "react-native-webview": "5.12.1",
     "react-navigation-stack": "git://github.com/keybase/stack#danny/marco-animated-background-plus-darkmode",

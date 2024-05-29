@@ -7527,8 +7527,10 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
   integrity sha512-wIkUCfVKpVsWo3JSZlc+8MB5it+2AN5W8J7YVMST30UrvcQNZ1Okbj+rbVniijTWE6FGYy4XJq/rHkas8qJMLQ==
 
-lodash@./lodash.4.17.5.strict:
-  version "0.0.0"
+lodash@0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-0.10.0.tgz#5254bbc2c46c827f535a27d631fd4f2bff374ce7"
+  integrity sha512-v56iCcHwqxrkkFW08F6GFAEYjL/E7Exbk2HZKhaZJsogEMSqse9as4Zmx5fmci4ZCQ/UNVoFHGudYzONfGxANQ==
 
 lodash@^4, lodash@^4.17.13, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4:
   version "4.17.21"
